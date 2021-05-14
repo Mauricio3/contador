@@ -1,6 +1,6 @@
 # contador2
 
-Segunda versao do app contador
+second version of the counter app
 
 ## Getting Started
 
